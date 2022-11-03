@@ -1,0 +1,29 @@
+State,ISO,VehicleCode,Zone,Area,languages
+Andhra Pradesh,IN-AP,AP,Southern,162975,Telugu
+Arunachal Pradesh,IN-AR,AR,North-Eastern,83743,English
+Assam,IN-AS,AS,North-Eastern,78550,Assamese
+Bihar,IN-BR,BR,Eastern,94163,Hindi
+Chhattisgarh,IN-CT,CG,Central,135194,Chhattisgarhi
+Goa,IN-GA,GA,Western,3702,Konkani
+Gujarat,IN-GJ,GJ,Western,196024,Gujarati
+Haryana,IN-HR,HR,Northern,44212,Hindi
+Himachal Pradesh,IN-HP,HP,Northern,55673,Hindi
+Jharkhand,IN-JH,JH,Eastern,74677,Hindi
+Karnataka,IN-KA,KA,Southern,191791,Kannada
+Kerala,IN-KL,KL,Southern,38863,Malayalam
+Madhya Pradesh,IN-MP,MP,Central,308252,Hindi
+Maharashtra,IN-MH,MH,Western,307713,Marathi
+Manipur,IN-MN,MN,North-Eastern,22347,Meitei
+Meghalaya,IN-ML,ML,North-Eastern,22720,English
+Mizoram,IN-MZ,MZ,North-Eastern,21081,Mizo
+Nagaland,IN-NL,NL,North-Eastern,16579,English
+Odisha,IN-OR,OD,Eastern,155820,Odia
+Punjab,IN-PB,PB,Northern,50362,Punjabi
+Rajasthan,IN-RJ,RJ,Northern,342269,Hindi
+Sikkim,IN-SK,SK,North-Eastern,7096,Nepali
+Tamil Nadu,IN-TN,TN,Southern,130058,Tamil
+Telangana,IN-TG,TS,Southern,"112,077",Telugu
+Tripura,IN-TR,TR,North-Eastern,10492,Kokborok
+Uttar Pradesh,IN-UP,UP,Central,243286,Hindi
+Uttarakhand,IN-UT,UK,Central,53483,Hindi
+West Bengal,IN-WB,WB,Eastern,88752,Bengali
